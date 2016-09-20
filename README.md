@@ -34,6 +34,9 @@
   3. Pré-processadores de css
   4. Criando uma aplicação
 
+#### Slides usados no primeiro dia: [http://www.slideshare.net/secret/x5Rftl7m0IU1b](http://www.slideshare.net/secret/x5Rftl7m0IU1b)
+#### Demo introduzindo o conceito de plugins: [https://github.com/WennderSantos/curso-app-hibrido-demo-camera](https://github.com/WennderSantos/curso-app-hibrido-demo-camera)
+
 # Dia 2
 
 7. Automatize tudo
