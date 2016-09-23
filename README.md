@@ -60,3 +60,5 @@
 12. Do desenvolvimento à store
   1. Criando um app que acessa a câmera
   2. Publicando na play store
+
+#### Demo testes de unidade em um app híbrido: [https://github.com/WennderSantos/demo-teste-unidade-app-hibrido](https://github.com/WennderSantos/demo-teste-unidade-app-hibrido)
